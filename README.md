@@ -15,15 +15,5 @@
 
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-🌆 Daytime                27 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-🌃 Evening                118 commits         ███████████████████░░░░░░   74.68 % 
-🌙 Night                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-```
-
-
 
 <!--END_SECTION:waka-->
